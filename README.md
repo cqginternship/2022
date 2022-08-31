@@ -5,16 +5,36 @@ CQG Internship 2022
 
 Дата | Тип Занятия | Занятие
 -----|-------------|--------
+1 сен | Лекция | Version Control System
+8 сен | Лаба   | Version Control System
+15 сен | Лекция | Debugging
+22 сен | Лаба   | Debugging
+29 сен | Лекция | STL
+6  окт | Лаба   | STL
+13 окт | Лекция | Modern C++: Move Semantics and Smart Pointers
+20 окт | Лаба   | Modern C++: Move Semantics and Smart Pointers
+27 окт | Лекция | Modern C++: lambda, bind, function
+3  ноя | Лаба   | Modern C++: lambda, bind, function
+10 ноя | Лекция | Multithreading
+17 ноя | Лаба   | Multithreading
+24 ноя | Лекция | Python
+1  дек | Лаба   | Python
+8  дек | Лекция | Docker
+15 дек | Лаба   | Docker
+? | Зачет  |
 
-Лекции - .
+Лекции и лабораторные работы начинаются в 10:40 в аудитории 3120Б.
 
-Зачет - .
+Адрес для связи: zelinterns@cqg.com
 
 ## Оценки
 
 Каждая лабораторная работа оценивается по 10-бальной шкале. Всего 80 баллов.
+За каждую неделю задержки будут отниматься 2 балла.
 
 + оценка <b>5 &Element; [64, 80]</b>
 + оценка <b>4 &Element; [48, 64)</b>
 + оценка <b>3 &Element; [40, 48)</b>
 + На дифф. зачете можно получить любую оценку
+
+Для получения "автоматом" 4 или 5 нужно сделать все лабораторные работы.
