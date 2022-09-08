@@ -6,7 +6,7 @@ CQG Internship 2022
 Дата | Тип Занятия | Занятие
 -----|-------------|--------
 1 сен | Лекция | [Version Control Systems](<1. Version Control Systems/VCS. Git. GitHub.pdf>)
-8 сен | Лаба   | Version Control Systems
+8 сен | Лаба   | [Version Control Systems](<1. Version Control Systems/Git Task.md>)
 15 сен | Лекция | Debugging
 22 сен | Лаба   | Debugging
 29 сен | Лекция | STL
