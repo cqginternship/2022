@@ -7,8 +7,8 @@ CQG Internship 2022
 -----|-------------|--------
 1 сен | Лекция | [Version Control Systems](<1. Version Control Systems/VCS. Git. GitHub.pdf>)
 8 сен | Лаба   | [Version Control Systems](<1. Version Control Systems/Git Task.md>)
-15 сен | Лекция | Debugging
-22 сен | Лаба   | Debugging
+15 сен | Лекция | [Debugging](<2. Debugging/Debugging.pdf>)
+22 сен | Лаба   | [Debugging](<2. Debugging/lab-debugging/README.md>)
 29 сен | Лекция | STL
 6  окт | Лаба   | STL
 13 окт | Лекция | Modern C++: Move Semantics and Smart Pointers
