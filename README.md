@@ -15,8 +15,8 @@ CQG Internship 2022
 20 окт | Лаба   | [Modern C++: Move Semantics and Smart Pointers](<4. Modern CPP. Move Semantic and Smart Pointers/Modern CPP. Move Semantic and Smart Pointers 2022.md>)
 27 окт | Лекция | [Modern C++: lambda, bind, function](<5. Modern CPP. Lambdas and Functions/Modern CPP. Lambdas and Functions 2022.pdf>)
 3  ноя | Лаба   | [Modern C++: lambda, bind, function](<5. Modern CPP. Lambdas and Functions/Modern CPP. Lambdas and Functions 2022.md>)
-10 ноя | Лекция | [Multithreading](6. Multithreading/Multithreading.pdf)
-17 ноя | Лаба   | [Multithreading](6. Multithreading/Multithreading.md)
+10 ноя | Лекция | [Multithreading](<6. Multithreading/Multithreading.pdf>)
+17 ноя | Лаба   | [Multithreading](<6. Multithreading/Multithreading.md>)
 24 ноя | Лекция | Python
 1  дек | Лаба   | Python
 8  дек | Лекция | Docker
