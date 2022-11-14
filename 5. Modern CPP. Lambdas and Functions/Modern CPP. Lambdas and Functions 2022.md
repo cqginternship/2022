@@ -65,7 +65,7 @@ solver.RegisterOperator<1>("double", [](int x) { return x * 2; });
 std::cout << solver.Solve("2 double 3 4 + +") << '\n'; // 11
 
 solver.RegisterOperator<2>("-", std::minus<>());
-std::cout << solver.Solve("2 double 3 4 + -") << '\n'; // 3
+std::cout << solver.Solve("2 double 3 4 + -") << '\n'; // - 3
 
 solver.RegisterOperator<1>("2", ...); // exception (function name can't be a number)
 solver.Solve("2 +"); // exception (not enough arguments to call '+')
