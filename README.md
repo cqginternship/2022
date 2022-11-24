@@ -17,8 +17,8 @@ CQG Internship 2022
 3  ноя | Лаба   | [Modern C++: lambda, bind, function](<5. Modern CPP. Lambdas and Functions/Modern CPP. Lambdas and Functions 2022.md>)
 10 ноя | Лекция | [Multithreading](<6. Multithreading/Multithreading.pdf>)
 17 ноя | Лаба   | [Multithreading](<6. Multithreading/Multithreading.md>)
-24 ноя | Лекция | Python
-1  дек | Лаба   | Python
+24 ноя | Лекция | [Python](<7. Python/Python.pdf>)
+1  дек | Лаба   | [Python](<7. Python/Python.md>)
 8  дек | Лекция | Docker
 15 дек | Лаба   | Docker
 ? | Зачет  |
