@@ -19,8 +19,8 @@ CQG Internship 2022
 17 ноя | Лаба   | [Multithreading](<6. Multithreading/Multithreading.md>)
 24 ноя | Лекция | [Python](<7. Python/Python.pdf>)
 1  дек | Лаба   | [Python](<7. Python/Python.md>)
-8  дек | Лекция | Docker
-15 дек | Лаба   | Docker
+8  дек | Лекция | [Docker](<8. Docker/Docker.pdf>)
+15 дек | Лаба   | [Docker](<8. Docker/Docker.md>)
 ? | Зачет  |
 
 Лекции и лабораторные работы начинаются в 10:40 в аудитории 3120Б.
